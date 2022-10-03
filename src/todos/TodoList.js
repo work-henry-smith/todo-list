@@ -1,8 +1,9 @@
-import TodoListItems from './TodoListItems';
+import TodoListItem from './TodoListItem';
 
 const TodoList = () => {
+    
     return (
-        <h1>hi</h1>
+        <h1>hello</h1>
     )
 }
 
